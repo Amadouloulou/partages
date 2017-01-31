@@ -4,3 +4,5 @@
 <li>la balise HR insére une ligne séparatrice  dans la page</li>
 <li>il est possible de placer des phrases à gauche, au centre et à droite de l'ecran (style="text-align:right")</li>
 </ol>
+11111111111111111111111111111111111111
+ytffffffffffffffffffffj;ffffffffyuf
