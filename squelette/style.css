@@ -1,0 +1,27 @@
+body{
+  background: #008080;
+}
+
+header{
+  height: 100px;
+  background: #87CEEB;
+}
+
+nav{
+  height: 35px;
+  background: #FA8072;
+}
+
+section{
+  height: 550px;
+  background: #66CDAA;
+}
+
+footer{
+  height: 70px;
+  background: #708090;
+}
+
+header, footer{
+  color: #FFE4E1;
+}
